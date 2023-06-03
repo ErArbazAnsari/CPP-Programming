@@ -1,0 +1,9 @@
+/*
+-One Name and Many Form
+Types:
+    1: Complile Time Polymorphism (Early Binding)
+        -Operator Overloading
+        -Function Overloading
+    2: Run Time Polymorphism (Late Binding)
+        -Virtual Function
+*/
